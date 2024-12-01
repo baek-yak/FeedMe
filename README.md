@@ -90,7 +90,7 @@
       <img src="https://avatars.githubusercontent.com/u/156387334?v=4" alt="장현수" height="150" width="150" style="border-radius: 50%;"/>
       <h4>장현수</h4>
       <p><strong>역할:</strong> 프론트엔드</p>
-      <p><strong>연락처:</strong> choi@example.com</p>
+      <p><strong>연락처:</strong> wkdalsrud113@naver.com</p>
       <p><strong>GIT:</strong> <a href="https://github.com/baek-yak" target="_blank">github.com/현수</a></p>
     </td>
   </tr>
